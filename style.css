@@ -1,0 +1,47 @@
+body {
+    font-size: 15pt;
+}
+#play{
+  background-color: red;
+  width: 390px;
+  height: 350px;
+}
+#container-game{
+  background-color: blue;
+  width: 800px;
+  height: 500px;
+}
+#mapa{
+  width: 5000px;
+  height: 5000px;
+  background-color: blue;
+}
+#text{
+  background-color: blue;
+  width: 1000px;
+  height: 100px;
+}
+#mapa2{
+  background-color: blue;
+  width: 5000px;
+  height: 100px;
+}
+#chao{
+  background-color: green;
+  width: 5000px;
+  height: 1000px;
+}
+#chao2{
+  background-color: green;
+  width: 5000px;
+  height: 1000px;
+}
+#jump{
+  background-color: red;
+  width: 50px;
+  height: 50px;
+}
+#freddy{
+  width: 100px;
+  height: 100px;
+}
